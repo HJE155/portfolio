@@ -41,6 +41,9 @@ img {
   gap: 50px;
   padding-right: 50px;
 }
+.navi > li > a:hover {
+  color: #444;
+}
 .main {
   position: relative;
   margin-top: 120px;
